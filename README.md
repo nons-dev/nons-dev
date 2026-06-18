@@ -1,31 +1,30 @@
 # NONS
 
-## بازار مبتنی بر اعتماد برای خدمات و مهارت‌ها
+## A Trust-Based Marketplace for Services and Skills
 
-NONS بستری برای ایجاد ارتباط میان افراد، متخصصان و کسب‌وکارها است.
+NONS is a platform designed to connect individuals, professionals, and businesses.
 
-ما در حال ساخت فضایی هستیم که افراد بتوانند خدمات ارائه دهند، مهارت‌های خود را عرضه کنند، فرصت‌های همکاری پیدا کنند و بر پایه اعتبار و سابقه فعالیت خود اعتماد ایجاد کنند.
+We are building an environment where people can offer services, showcase their skills, discover collaboration opportunities, and build trust through their reputation and track record.
 
-هدف NONS ایجاد محیطی شفاف‌تر برای تعاملات حرفه‌ای و خدماتی است؛ جایی که کیفیت همکاری‌ها، سابقه فعالیت و اعتماد میان طرفین نقش محوری داشته باشد.
+Our goal is to create a more transparent ecosystem for professional and service-based interactions, where credibility, experience, and trust play a central role.
 
-### آنچه NONS دنبال می‌کند
+### What NONS Aims To Provide
 
-* تسهیل ارتباط میان ارائه‌دهندگان خدمات و متقاضیان
-* ایجاد سازوکارهای شفاف برای شکل‌گیری اعتماد
-* تقویت اعتبار حرفه‌ای افراد و کسب‌وکارها
-* کاهش ریسک تعاملات و همکاری‌های آنلاین
-* کمک به شکل‌گیری روابط پایدار و بلندمدت
+* Better connections between service providers and customers
+* Transparent mechanisms for building trust
+* Stronger professional reputation for individuals and businesses
+* Reduced risk in online collaborations and transactions
+* Long-term and sustainable professional relationships
 
-### مخاطبان NONS
+### Who NONS Is For
 
-* متخصصان و فریلنسرها
-* ارائه‌دهندگان خدمات
-* صاحبان کسب‌وکار
-* تیم‌ها و شرکت‌ها
-* افرادی که به دنبال همکاری، خدمات یا فرصت‌های جدید هستند
+* Professionals and freelancers
+* Service providers
+* Business owners
+* Teams and organizations
+* Anyone looking for trusted collaborations and opportunities
 
-### وب‌سایت
+### Website
 
 nons.ir
-
 nons.app
